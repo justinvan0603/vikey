@@ -2,6 +2,7 @@
 using ViKey;
 public class TiengViet
 {
+
     // Fields
     private string[] amDau = new string[] { 
         "r", "d", "gi", "v", "ch", "tr", "s", "x", "l", "n", "qu", "b", "`c", "/k", "`g", "/gh", 
