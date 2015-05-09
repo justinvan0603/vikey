@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <GoTiengViet>1</GoTiengViet>
+  <KieuGo>1</KieuGo>
+  <bangMa>1</bangMa>
+  <PhimChuyen>0</PhimChuyen>
+  <BoDau>0</BoDau>
+  <KiemTraChinhTa>1</KiemTraChinhTa>
+  <SuDungSendKey>1</SuDungSendKey>
+  <ChoPhepGoTat>0</ChoPhepGoTat>
+  <GoTatKhiTatTiengViet>0</GoTatKhiTatTiengViet>
+  <BatKhiKhoiDong>0</BatKhiKhoiDong>
+  <KhoiDongCungWin>0</KhoiDongCungWin>
+</config>
